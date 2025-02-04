@@ -53,8 +53,11 @@ def get_bet():
 def main():
  balance=deposit()
  lines=get_number_of_lines()
- bet=get_bet()
- total_bet=lines*bet
+ while True:
+  bet=get_bet()
+  total_bet=lines*bet
+  if total_bet>balance:
+    print('you donot have enough to bet')
  print(f'your betting {bet} for {lines}: total is {total_bet}')
  print(balance,lines)
 
