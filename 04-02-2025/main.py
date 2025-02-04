@@ -1,3 +1,5 @@
+MAX_LINES=3
+
 def deposit():
   while(True):
     amount=input('what would like to deposit? $ ')
@@ -12,6 +14,14 @@ def deposit():
 
   return amount
 
-deposit()
+
+def get_number_of_lines():
+  
+
+def main():
+ balance=deposit()
+
+main()
+
 
   
