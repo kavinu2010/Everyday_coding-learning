@@ -56,24 +56,37 @@ def fact(n):
   result=1
   for i in range(1,n+1):
     result*=i
-  return result'''
+  return result
 total=0
-p, r, t=input('enter principal, rate and duration in a year need to deposit in the bank ')
+p, r, t=input('enter principal, rate and duration in a year need to deposit in the bank ').split()
 if p.isdigit() and r.isdigit() and t.isdigit():
   principal=int(p)
   rate=int(r)
   time=int(t)
-  for x in range(time):
-   total+=total+principal+(principal*rate*x)/100
+  total=principal
+  for _ in range(time):
+   total+=(total*rate*1)/100
 
 else:
   print('enter a valid number')
 
-  
+
+print(total)'''
 
 
+days=input('enter the numbers o days ')
+year=int(days)
+years=year//365
 
-print(total)
+week=year-(365*years)
+weeks=week//7
+days=week%7
+
+
+print(f'')
+print(f'year:{years},weeks:{weeks} , days:{days}')
+
+
 
   
 
