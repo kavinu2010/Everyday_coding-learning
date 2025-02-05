@@ -50,22 +50,43 @@ def max_min():
    
 
 def polyndrome(str):
-  return str==str[::-1]'''
+  return str==str[::-1]
 
 def fact(n):
   result=1
   for i in range(1,n+1):
     result*=i
-  return result
+  return result'''
+total=0
+p, r, t=input('enter principal, rate and duration in a year need to deposit in the bank ')
+if p.isdigit() and r.isdigit() and t.isdigit():
+  principal=int(p)
+  rate=int(r)
+  time=int(t)
+  for x in range(time):
+   total+=total+principal+(principal*rate*x)/100
+
+else:
+  print('enter a valid number')
+
+  
+
+
+
+print(total)
+
+  
+
+ 
      
 
-def main():
+#def main():
   #greeting()
   #even_odd()
   #check()
   #max_min()
   #print(polyndrome('mom'))
-  print(fact(10))
+  #print(fact(10))
 
 
-main()
+#main()
