@@ -21,12 +21,12 @@ def check():
   num=9
   number=['even' if num%2==0 else 'odd'  ]
   print(number)
-'''
+
 array_ele=[]
 def max_min():
   
   while(True):
-   element=input('enter a list of number or else type exit' )
+   element=input('enter a list of number or else type exit  >> ' )
 
    if element.lower()=='exit':
      break
@@ -49,11 +49,23 @@ def max_min():
      
    
 
+def polyndrome(str):
+  return str==str[::-1]'''
+
+def fact(n):
+  result=1
+  for i in range(1,n+1):
+    result*=i
+  return result
+     
+
 def main():
   #greeting()
   #even_odd()
   #check()
-  max_min()
+  #max_min()
+  #print(polyndrome('mom'))
+  print(fact(10))
 
 
 main()
