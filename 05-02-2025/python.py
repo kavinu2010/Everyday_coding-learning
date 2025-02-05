@@ -15,16 +15,45 @@ def even_odd():
     else:
       print('odd number')
   else:
-    print('enter a number')'''
+    print('enter a number')
 
 def check():
   num=9
   number=['even' if num%2==0 else 'odd'  ]
   print(number)
+'''
+array_ele=[]
+def max_min():
+  
+  while(True):
+   element=input('enter a list of number or else type exit' )
+
+   if element.lower()=='exit':
+     break
+   
+   try:
+     
+     value=int(element)
+     array_ele.append(value)
+     print(array_ele)
+
+   except ValueError:
+     print('enter a valid input to quit')
+
+  print(array_ele)
+  maximum=max(array_ele)
+  minimum=min(array_ele)
+  print(f'maximum number in the array list is :{maximum}')
+  print(f'minimum number in the arrya lisr is :{minimum}')
+     
+     
+   
 
 def main():
   #greeting()
   #even_odd()
-  check()
+  #check()
+  max_min()
+
 
 main()
