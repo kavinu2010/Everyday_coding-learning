@@ -36,7 +36,7 @@ int main(){
   printf("%p\n", &age);
   printf("%p\n", ptr);
   printf("%d", *ptr);
-}*/
+}
 
 #include <stdio.h>
 int main(){
@@ -46,4 +46,5 @@ int main(){
       printf("%d\n", mynum[i]);
       printf("%p\n", &mynum[i]);
     }
-}
+}*/
+
