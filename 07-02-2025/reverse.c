@@ -1,22 +1,49 @@
+/*#include <stdio.h>
+
+int main() {
+  while (number)
+  int reverse = 0;
+  int number = 98765;
+  int reverse = reverse+number % 10;
+  printf("%d\n", reverse);
+  number /= 10;
+  printf("%d", number);
+}
+
+
 #include <stdio.h>
 
 int main() {
-   
-  int numbers = 12345;
+  int myAge = 43;
+  int m;
+  printf("enter the value");
+  scanf("%d", &m);
+  printf("the %d is ", m);
   
-  // A variable to store the reversed number
-  int revNumbers = 0;
-
-  // Reverse and reorder the numbers
-  while (numbers) {
-    // Get the last number of 'numbers' and add it to 'revNumber'
-    revNumbers = revNumbers * 10 + numbers % 10;
-    // Remove the last number of 'numbers'
-    numbers /= 10;
-  }
-
-  // Output the reversed numbers
-  printf("%d", revNumbers);
-
+  printf("%d\n", myAge);
+  printf("%p\n", &myAge);
   return 0;
+}
+ 
+
+#include <stdio.h>
+
+int main(){
+  int age = 34;
+  int* ptr = &age;
+
+  printf("%d\n", age);
+  printf("%p\n", &age);
+  printf("%p\n", ptr);
+  printf("%d", *ptr);
+}*/
+
+#include <stdio.h>
+int main(){
+  int mynum[] = {2, 4, 6, 8};
+  for (int i = 0; i < 4;i++)
+    {
+      printf("%d\n", mynum[i]);
+      printf("%p\n", &mynum[i]);
+    }
 }
