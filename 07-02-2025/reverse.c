@@ -48,3 +48,15 @@ int main(){
     }
 }*/
 
+#include<stdio.h>
+
+int main(){
+  char name[30];
+  printf("Enter ur name");
+  
+  scanf("%s", name);
+  printf("Hello %s\n",name);
+  fgets(name, sizeof(name), stdin);
+  printf("ok fine %s", name);
+  return 0;
+}
