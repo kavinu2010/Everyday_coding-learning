@@ -53,7 +53,7 @@ int main(){
 int main(){
   char name[30];
   printf("Enter ur name");
-  
+   
   scanf("%s", name);
   printf("Hello %s\n",name);
   fgets(name, sizeof(name), stdin);
