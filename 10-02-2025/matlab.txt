@@ -1,0 +1,9 @@
+course ourline
+
+introduction to matlab
+user interface
+data types
+basic syntax
+arrays and matrices
+scripts
+data visualization
