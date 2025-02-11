@@ -32,7 +32,7 @@ int main()
   sleep(1);
   }
   return (0);
-}*/
+}
 
 #include<stdio.h>
 #include<time.h>
@@ -46,4 +46,31 @@ int main(){
 
   printf("%02d : %02d : %02d", current_time->tm_hour, current_time->tm_min, current_time->tm_sec);
   return 0;
+}
+*/
+
+#include<stdio.h>
+
+int main(){
+  char ch;
+  char pass[20];
+  int i = 0;
+
+  ch = getchar();
+  if(ch==13)
+  {
+    pass[i] = '\0';
+     
+  }
+  else{
+    pass[i++] = ch;
+    printf("*");
+
+  }
+  printf("you entered : %s \n ", pass);
+  FILE * ptr;
+  ptr = fopen("password.txt", "r");
+
+  return 0;
+
 }
