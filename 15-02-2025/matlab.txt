@@ -1,0 +1,9 @@
+MATLAB
+Matrix laboratory.
+Purpose is to perform engineering and scientific calculation and analysis
+MathWorks developed MATLAB
+1.Why people are using Matlab :  because of extensive library of predefined function 
+2. It can be interfaced with various hardwares.(IOT based devices)
+3. R & D ppl researcher uses matlab bcz it reduces engineering design , development time and cost
+
+Command window, workspace, current folder
