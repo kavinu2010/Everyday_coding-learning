@@ -10,3 +10,10 @@ Command window, workspace, current folder
 
 
 Layout, preference, color, font, workspace saving variables
+
+all the variables in matlab stores in the matrix form
+
+variables are case sensitive
+
+uaer input, bodmas
+
