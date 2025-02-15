@@ -17,3 +17,28 @@ variables are case sensitive
 
 uaer input, bodmas
 
+r=input('Radius (cm) = ');
+ h=input('Height (cm) = ');
+ z=input('What you want to do ? ', 's');
+ D=2*r;
+ C=2*pi*r;
+ A=pi*r^2;
+ Vc=pi*(r^2)*h;
+
+ disp=('Calculation of circles');
+ disp=('--------------------------');
+ disp=(['Radius (cm) = ', num2str(r)]);
+ disp=(['Height (cm) = ', num2str(h)]);
+ disp=([ ' ']);
+ disp=(['Diameter (cm) = ', num2str(D)]);
+ disp=(['Circumference (cm) = ', num2str(C)]);
+ disp=(['Area (cm2) = ', num2str(A)]);
+ disp=(['Volume of cylinder (cm2) = ', num2str(Vc)]);
+ 
+
+ function f = sineplot(a, b)
+    t = 0:0.001:1;
+    f = a * sin(2 * pi * b * t);
+    plot(t, f);
+end
+
