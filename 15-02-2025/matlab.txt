@@ -7,3 +7,6 @@ MathWorks developed MATLAB
 3. R & D ppl researcher uses matlab bcz it reduces engineering design , development time and cost
 
 Command window, workspace, current folder
+
+
+Layout, preference, color, font, workspace saving variables
