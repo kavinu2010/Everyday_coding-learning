@@ -54,3 +54,33 @@ f1(3)
 wewill use [] to concatinate the strings : 'Radius (cm) = ' it is a string
 num2str(r) it converts the number r into a string
 
+%% inline function
+
+f2=inline('b^2+3','b')
+f2(7)
+
+For loop?
+The for loop is used to repeatedly execute a 
+specified block of code for known number of times.
+
+
+for variable=a:s:b   a=initial value, b=final value, s=step size
+   statment 
+end 
+
+for i=0:2:10
+  m=(2*i)+1
+end
+
+%% while looop
+
+x=0
+while x<10
+      x=x+1;
+      disp(x)
+end 
+While loop?
+While loop is used to repeat a specific set
+Of program , until a condition is met
+If number of repetition is not clear to us we use: while loop
+If number of repeaiion is clear we will use for loop 
