@@ -84,3 +84,14 @@ While loop is used to repeat a specific set
 Of program , until a condition is met
 If number of repetition is not clear to us we use: while loop
 If number of repeaiion is clear we will use for loop 
+
+factorial using while loop
+
+m=input('enter the number to be factor')
+i=m
+x=1
+while x>1
+  x=x*i;
+  i=i-1;
+end
+disp(x)
