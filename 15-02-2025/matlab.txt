@@ -162,3 +162,63 @@ xlabel('x')
 ylabel('y')
 zlable('z')
 
+parula , jet, shading
+
+
+surf, mesh , waterfall, contour
+
+values supresses in linear geaph. we need to use log 
+simulog, loglog
+
+matrix multiply.
+element wise multiply by .
+
+finding the roots of the equations
+
+complex transpose
+
+maxmax to find the max element in a matrix
+similarly min min
+sub matrix ranges
+columns selection 
+
+A=[2 4 6; 32 43 12;4 23 1];
+
+
+ [f,I]=max(max(A));
+
+ B=[4 4 1]
+ roots(B)
+
+ B=A(1:2,1:2)
+B =
+
+     4     4     1
+
+
+ans =
+
+   -0.5000
+   -0.5000
+
+>> arithmetic
+
+B =
+
+     4     4     1
+
+
+ans =
+
+   -0.5000
+   -0.5000
+
+
+B =
+
+     2     4
+    32    43
+
+>> 
+
+ 
