@@ -95,3 +95,70 @@ while x>1
   i=i-1;
 end
 disp(x)
+
+
+%% ploting
+
+help plot >>>
+
+t=0:0.1:2*pi;
+a=sin(t);
+plot(t,a)
+
+plot(t,a,'r')  for red
+plot(t,a,'r', 'Markersize',5)
+
+grid on
+
+xlabel('time')
+ylabel('frequency')
+title('sine wave'
+)
+xlabel('Time', 'FontSize',8)
+ylabel('frequency')
+title('sine wave')
+legend('sinewave')
+text(1,0,'Teta is 90')
+
+
+%% multiple plot on the same figure
+
+x=0:0.01:2*pi;
+y1=sin(x)
+y2=19*cos(x)
+hold on
+yyaxis left
+plot(x,y1,'ro')
+yyaxis right
+plot(x,y2,'b<')
+
+clc
+clear all
+
+x=0:0.1:2;
+y=0:0.1:2;
+[X,Y]=meshgrid(x,y);
+z=X.*Y;
+mesh(x,y,z)
+
+xlabel('x')
+ylabel('y')
+zlable('z')
+
+%% complex 3d plot
+clc
+clear all
+x=0:.01:10;
+y=0:.02:5;
+
+[X,Y]=meshgrid(x,y);
+z=sin(X).*cos(Y);
+%mesh(x,y,z)
+
+surf(x,y,z)
+shading interp 
+colorbar;
+xlabel('x')
+ylabel('y')
+zlable('z')
+
