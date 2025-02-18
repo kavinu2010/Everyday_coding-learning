@@ -1,0 +1,9 @@
+what is simulink?
+It s a simulation and model- based design environment for modelling, 
+simulation and analysis of multidomain systems, in graphical way
+
+Simulink is a graphical programming environment integrated with MATLAB, 
+developed by MathWorks, used for modeling, simulating, and analyzing dynamic systems.
+
+library browser, source
+
