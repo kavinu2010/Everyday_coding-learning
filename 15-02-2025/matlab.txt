@@ -219,6 +219,6 @@ B =
      2     4
     32    43
 
->> 
+>> index [f,i]
 
- 
+ short cut for symbolic variables >>> syms
