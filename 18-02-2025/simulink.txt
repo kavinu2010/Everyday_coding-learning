@@ -7,3 +7,5 @@ developed by MathWorks, used for modeling, simulating, and analyzing dynamic sys
 
 library browser, source
 
+simulink is a simple and user friendly tool that we can use to develop a simulate, analyse dynamic system
+and study any system in a graphical way
