@@ -1,0 +1,30 @@
+what is AI? Its a software/computer system attempts to 
+copy the behaviour and actions of the humans
+  These are 5 keys
+
+1. Machine learning using a data to train a machine
+
+
+2. Anomaly detection: any thing that deviate from the normal pattern / detect abnormal pattern in the data
+health, data, 
+use machine learning to analyse the data
+watches are trends and find outliers in the data
+Fradulent charges: illegal transaction. 
+oil is run out in vehicle, temerature of vehicle is increases are the example
+
+
+3. computer vision : see the world and examine images and videos
+facial recognization(unlock phoneor ccomputer for security purposes, recognize text in the picture)
+
+
+4. Natural language processing: to create software that underdtands written and spoken languages
+(siri google, gps application, sppech recognization - speech syntehesis to talk back to us)
+
+5. conversational AI: AI system can have  conversation with us
+
+Knowledge mining
+
+
+
+
+
