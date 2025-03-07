@@ -36,16 +36,26 @@ facial recognization(unlock phoneor ccomputer for security purposes, recognize t
 >> (siri google, gps application, sppech recognization - speech syntehesis to talk back to us)
 >> Home automation, translate languagese
 >> Determine positive and negative statement
+>> it reduce workload by answering questions
 
 
 5. conversational AI: AI system can have  conversation with us
->> chatbot, 
+>> chatbot, ordering food
 
-Knowledge mining
+Knowledge mining:
+ Use AI to quickly learn from vast amounts of informations
+>> Data extractions
+>> pull data from variety of resources
+>> enrich the data
+>> Explore the data
+
+>> Ingest scientific documents
+>> Pull out key phrases and key words
+>> publish to searchable library
 
 
 Responsible AI principal
-Creating responsible AI:  PRINCIPLES
+Creating responsible AI: We need to follow certain PRINCIPLES
 Fairness /  reliability and safety / privacy and security / inclusivness >/ transperancy / accountability
 
 Fairness: Ai(application doesnt descrminate) should treat all ppl fairly ( Accept or reject loan application) ( not descrimiate based on gender
