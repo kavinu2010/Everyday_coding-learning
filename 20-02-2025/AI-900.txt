@@ -98,3 +98,13 @@ Regression, classification, clustering, supervised and unsupervised learning
 
 Regression >> Historical data with features to predict a numerical value/ label
 used to predict the numerical value
+
+Classification >> Using historical data prediction which class and categories belongs too
+identifying diebetic patients, based on age and BMI
+checking low risk and high risk in bank  using credit score and income
+
+supervised learning: uses historical data for prediction
+
+
+This is Unsupervised
+Clustering >> Group the similar items into a cluster based on their features, here we are not predicing anuthing
