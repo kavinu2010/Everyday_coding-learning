@@ -56,12 +56,16 @@ Knowledge mining:
 
 Responsible AI principal
 Creating responsible AI: We need to follow certain PRINCIPLES
-Fairness /  reliability and safety / privacy and security / inclusivness >/ transperancy / accountability
+Fairness /  reliability and safety / privacy and security / inclusivness / transperancy / accountability
 
 Fairness: Ai(application doesnt descrminate) should treat all ppl fairly ( Accept or reject loan application) ( not descrimiate based on gender
 , disability or any other factor)
+>> limit the biases in AI system Ex: reject/aprrove loan applications
+
 
 Reliability and safety: Medicine , self car driving: AI system prescribing medication need to beeliable and safe
+>> rigorous testing
+>> How to handle error in safe way
 
 Privacy and security:user data should not br leaked or disclosed (confidential patient record)
 
@@ -69,10 +73,28 @@ Inclusivness:(available for everyone) All people can use AI, irrespecive of gnde
 they can access the result
 
 Tranparency: (how it works and limitaions are )after <AI mskes decision we shold have right to know. how it works and whats the limitations are
+>> Giving clear instructions and their limitations are
 
 Accountability: (ppl who are creatidn ai system should follow/meet legal and ethical standard) people should be help accountable for AI system
 AI system should follow governance abd frameworksnto meet legal and ethical standars(human rights)
 
+
+
 DEMONSTARTIONs:  Computer vision demo/language understanding demo / Text analytics demo
 
-086193504 pennila colsom 
+ 
+
+Machine Learning:learning everything
+what is ML, Important terminology, Azure service for ML
+
+Techniques that uses maths and stataisticst to create a model that can predict unknown values
+
+Featues and Labels: we need to train the model 
+Azure automated ML
+Azure ML designer
+
+Types of ML:
+Regression, classification, clustering, supervised and unsupervised learning
+
+Regression >> Historical data with features to predict a numerical value/ label
+used to predict the numerical value
