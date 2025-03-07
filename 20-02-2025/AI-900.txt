@@ -1,6 +1,9 @@
 what is AI? Its a software/computer system attempts to 
 copy the behaviour and actions of the humans
-  These are 5 key elements of AI
+
+These are 5 key elements of AI
+
+Machine leaning[Foundation of most AI system]
 
 1. Machine learning using a data to train a machine
 predict, clasify or grouped data. bank loan applier is low or high risk debt loan
