@@ -3,29 +3,43 @@ copy the behaviour and actions of the humans
 
 These are 5 key elements of AI
 
-Machine leaning[Foundation of most AI system]
+1. Machine leaning[Foundation of most AI system]:
+>> Machine can learn to make predictions
+>> use a data to train a machine learning models to make prediction
+>> Predictiong walking time
+>> Forecasting Demand
+>> Classifying high or low risk category
+>> focusing on predicting values,classes and grouping of objects
 
-1. Machine learning using a data to train a machine
+
+Machine learning using a data to train a machine
 predict, clasify or grouped data. bank loan applier is low or high risk debt loan
 
 
 2. Anomaly detection: any thing that deviate from the normal pattern / detect abnormal pattern in the data
 health, data, 
-use machine learning to analyse the data
-watches are trends and find outliers in the data
-Fradulent charges: illegal transaction. 
+>> use machine learning to analyse the data
+>> watches are trends and find outliers in the data
+>> Fradulent charges: illegal transaction. 
 
 oil is run out in vehicle, temerature of vehicle is increases are the example(early mechanical failure)
 
 
 3. computer vision : see the world and examine images and videos
 facial recognization(unlock phoneor ccomputer for security purposes, recognize text in the picture)
+>> extract text from the picture
+>> unlock phone or computer of security purposes
+>> Person is wearing glasses or not
 
 
 4. Natural language processing: to create software that underdtands written and spoken languages
-(siri google, gps application, sppech recognization - speech syntehesis to talk back to us)
+>> (siri google, gps application, sppech recognization - speech syntehesis to talk back to us)
+>> Home automation, translate languagese
+>> Determine positive and negative statement
+
 
 5. conversational AI: AI system can have  conversation with us
+>> chatbot, 
 
 Knowledge mining
 
