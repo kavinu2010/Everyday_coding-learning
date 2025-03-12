@@ -1,0 +1,6 @@
+MANUAL TESTING
+WHAT IS SOFTWARE
+Software is a collection of programs that provide a set of instructions to a computer,
+ enabling it to perform specific tasks. 
+ These programs serve as an interface between the user and the hardware, 
+  facilitating various operations and functionalities. 

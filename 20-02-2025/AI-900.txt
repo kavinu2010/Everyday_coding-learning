@@ -3,7 +3,7 @@ copy the behaviour and actions of the humans
 
 These are 5 key elements of AI
 
-1. Machine leaning[Foundation of most AI system]:
+1. Machine learning[Foundation of most AI system]:
 >> Machine can learn to make predictions
 >> use a data to train a machine learning models to make prediction
 >> Predictiong walking time
@@ -108,3 +108,38 @@ supervised learning: uses historical data for prediction
 
 This is Unsupervised
 Clustering >> Group the similar items into a cluster based on their features, here we are not predicing anuthing
+
+Azure automated ML:
+Exploring azure ML studio, set up a data set , train a regressoin model, evluate result, deploy the model
+
+
+
+Computer Vision:
+Introduction to cv 
+exploring custom vision
+exploring the  azure face service
+reading text from image 
+analysing receipts with form recognizer
+
+Computer vision: How an AI system cans see the world
+analyse images and return information about them
+uses a pre-built computer vison model
+
+Azure services : we can use computer vison with 2 services 
+
+azure computer vision (Standalone)>> interact with service via API endpoint and key 
+azure cognitive services >> the one service 2 rule them all
+cognitive service includes computer vision along with other AI services(NLP and conversational AI)
+>> under the cognitive services sits the computer vision service along with text analytics and azure speech and a few more  services
+
+Standalone service vs cognitive services
+SA >> you don't plann using other services
+   >> You want to track utilizatoin aned costs for computer vision sepearately
+CS >> use multiple AI services with only 1 resources
+   >> Simplify adinistratoin with a single endpoint and key
+
+Ability: >>  Descriptions >> CV can describe images
+Tagging >>  Computer vison can suggest tags
+object detection >> CV can detect objects >> Bounding box coordinates
+Brand detection >> can deteect popular brand
+
