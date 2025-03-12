@@ -142,4 +142,12 @@ Ability: >>  Descriptions >> CV can describe images
 Tagging >>  Computer vison can suggest tags
 object detection >> CV can detect objects >> Bounding box coordinates
 Brand detection >> can deteect popular brand
+Facial detection >> its diffeent as face recognization >> it deteermines if there is a face, the age and returning bounding box coordinates
+categories >> categoriesimages
+landmarks ad celebrities 
+optical character recognition (OCR) or reading text from a picture
+generate Thumbnails
+moderate content >> detect image with adult content , violent, or gory scenes
+
+Exploring custom vision:: 
 
