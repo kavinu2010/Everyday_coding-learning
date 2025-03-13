@@ -151,7 +151,22 @@ moderate content >> detect image with adult content , violent, or gory scenes
 
 Exploring custom vision::Both standalone and cognitive >>[image classify and detect objects] uses Image classification(own images and applying labels to it)
 
-Azure faceservice::
+Azure face service::
 >> Intro>> AF vs CV
 >> AF capability
+AF >>used to Detect,  analyse and recognize faces
+Facial detection[cordent and bounding boxes] (Computer vision) VS Facial analysis
+Facial analysis >> cabolitlies>> sunglasses, blurness, exposure and noise , Headpose, inclusion
+Facial recognization >> training a  model to recognize someone based on their features
+>> it detect in a group photos 
+>> facial companriosion and facial identification
 
+Reading text from images:: Reading text capabilites >> azure services
+
+optical character recognization (OCR) Read API
+model to train recognize text in an images(handwritten text or printed documnets)
+computer vision read api provides quick extraction of  a small amount of text in an image
+
+For large amount of text use FORM RECOGNIZER
+
+Analysing receipts with form recognizer
