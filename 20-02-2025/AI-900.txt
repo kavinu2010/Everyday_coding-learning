@@ -149,5 +149,9 @@ optical character recognition (OCR) or reading text from a picture
 generate Thumbnails
 moderate content >> detect image with adult content , violent, or gory scenes
 
-Exploring custom vision:: 
+Exploring custom vision::Both standalone and cognitive >>[image classify and detect objects] uses Image classification(own images and applying labels to it)
+
+Azure faceservice::
+>> Intro>> AF vs CV
+>> AF capability
 
