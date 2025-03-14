@@ -23,3 +23,31 @@ Key elements(according to the azure/microsoft):
 Datasets
 --------
 its a logical grouping of units of data that are closely related and or share the same data structure
+there are publicly available data sets that are used in the 
+learning of statistics, data analytics, ML
+
+MNIST database::- iamges of handwritten digits used to test classification,
+clustering and image processign algorithm
+handwritten into ------> digital text[commonly used when learning how to build computer vision ML models to translating
+handwriting tot the digital txt]
+COCO(common object in context)dataset :- A dataset contain many common images using a JSON files(coco format)
+that idemtify object or  segment with in an iameg 
+features----->object segmenttation, ecoggnition in context, superpixel stuff segmentation
+329k images(>200k labeled), 0.5 million object instances, 79 object categories, 90 stuff categories, 4 cation per images
+249,000people with keypoints
+
+
+Labeling(data labeling)
+-----------------------
+the process of identifying raw data(images, txt files,videos etc) and adding one or more meaningful or 
+infromative labls to provide context so that machine learning model can learn
+   >> With supervised machine learning, labeling is a prerequisite to produce training data and each piece of data 
+   will generally labeled by a human
+   >> With unsupervised machine learning, labels will be produce by the machine, and may not be human readable.
+
+what is ground truth?
+A properly labeled dataset that you used as the objective standard to train and access a given model is often called
+ground truth [ THe accuracy of ur trained models depends upon the accuracy of ur ground truth]
+
+Supervised and Unsupervised reinforcement
+-----------------------------------------
