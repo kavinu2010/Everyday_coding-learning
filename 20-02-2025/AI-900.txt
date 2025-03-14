@@ -236,6 +236,33 @@ when u r doing presentation
 translate the audio from the microphone into another language
 speech to text
 
+language understadding>>> not only able to here it should understandd (used donly for prediciotns)
+3 concepts
+utterence || entitites || Intent
+a phrses we say to the ai system --- turn on living room lights, start the coffee machine
+entities--lights, cofee mahcine
+intent- purpose or goal --- turn on, start, none
+we need to use utterence to rain the model
+azure serivces >> stnadaolon(LUIS)e offers bother aithoring or prediciton, but cognitive only prediction
+
+
+converstation AI:: intro, uses, azure
+ai system that can chat with humnas
+2 parts knowledge base >> question and answer pairs
+bot srvice>> web chat
+azure service :: cognitive and axure botservice
+
+Question and answer with cognitive services for langiúages
+we need to pull questions ad answers
+>> we can interact through via Rest API, software development kit or the laguage studio
+>> we can generate QnA pairs from an exisitng FAQ documents
+>> import them from a predefined chit-chat data source
+>> or we can type manually
+
+Enable to use with the bot service:
+need >>> knowledge base ID, Endpoint and authorization key
+
+sample FAQ website
 
 
 
