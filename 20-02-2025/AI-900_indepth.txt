@@ -65,4 +65,25 @@ RL - There is no data, there is an environment and an  ML model generated data m
 decison driven - game AI,learning tasks,video game, robot navigation
 
 
+Neural network and deep learning
+--------------------------------
+NN - often descibes as mimicking the brain, a neuron/ node represents an alogorithm
+data is inputed into a neurons  based on the outputs the data will be passed to one or many other connected neurals
+the connection between neurons is weighted
+the network is organised in layers
+there will be a input layer, 1 to many hidden layers and an output layers
+DL - A nueral netwoek that as 3 or more layers is considered as DL
+
+what is a feed forward?(FNN)forward feed neural network
+NN connection between nodes do not form a cycle(always moves a forward)
+
+what is backpropagation ? (BP)
+Moves backward through the neural network adjusting weight to improve outcome on next iteration. this is how neural net learns
+
+Loos functions?
+a function that compared to the ground truth  to the predicition to determine the error data(how bad the network performed)
+
+activation function ?
+an algorithm that applied to a hidden layer node that affects connected output eg ReLu
+dense, sparse
 
