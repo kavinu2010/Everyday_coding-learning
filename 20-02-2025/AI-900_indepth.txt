@@ -1,0 +1,14 @@
+ML introduction
+---------------
+Layers of machine learning >> AI >> ML >> Deep learning
+AI --> machine that performs jobs that mimic the human behaviour
+ML --> machine that better at a task without explicit programming
+DL --> Machine that have an artificial neural networking isnpired 
+by the human brain to solve the complex probelm
+
+what is a data scientists? 
+A person with multi-disciplinary skills in maths, statistics, 
+predicitve modeling and machine learning to make feauture prediction
+
+key elements of AI
+-----------------
