@@ -22,3 +22,4 @@ Key elements(according to the azure/microsoft):
 
 Datasets
 --------
+its a logical grouping of units of data that are closely related and or share the same data structure
