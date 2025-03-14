@@ -227,6 +227,17 @@ we can use this for GPS app, voice menus or broadcating anouncemnts
 text to speech api converts text to speech eithber directky or an audio file
 Azure service: axre speech standalone and cognitive services
 
+Transaltor txt and speech>> Text translation, speech translation, azure services
+translating text or documents from one language to another
+google translation (text to text translastion)
+more than 60 languages and we haved option like proanity filter nd tag the contnent, so it doesnt atempt a transaltion
+speech translation >>  speech to speech
+when u r doing presentation
+translate the audio from the microphone into another language
+speech to text
+
+
+
 
 Learning to read with Text analysis::intro, capability and azure services
 
