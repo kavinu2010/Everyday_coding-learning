@@ -212,6 +212,20 @@ Text analystics, speech, translator, language understanding
 for any kind of examine we need to use text analysis
 capabilities:: comments in a diffeent language(is it english, german, mixed english dominent or else it gives NAN)
 Sentiment analysis(positie negative sentences 0 or 1)
+Extract key phrases(key point in the documents ex: guys, order wrong, boo, recomended)/ we an use for summarise
+Entity recognization(entity table, category and confidenceit) acandetect people, date
+
+azure service >> Text analytics service(stadalone) and cognitive
+
+Azure speech:: >> sppech recognition, speech syntheses
+spoken language and converting it into data or text
+spoken language many be live audio or audio fields
+we can use this for automaed note taking or transxripts
+speech-to-text API transcribes the spoken lnaguage into text format
+Speech synthesis>> it takes text converting it into speech
+we can use this for GPS app, voice menus or broadcating anouncemnts
+text to speech api converts text to speech eithber directky or an audio file
+Azure service: axre speech standalone and cognitive services
 
 
 Learning to read with Text analysis::intro, capability and azure services
