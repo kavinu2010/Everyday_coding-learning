@@ -12,3 +12,13 @@ predicitve modeling and machine learning to make feauture prediction
 
 key elements of AI
 -----------------
+AI is the software that imitates human behaviour and capabilities
+Key elements(according to the azure/microsoft):
+>> Machien learning - foundation of AI system, learn and predict like a human
+>> Anomaly detection - detect outliers or things out of place like a human
+>> computer vision - be able to see like a human
+>> NLP - be able to process a human language and infer context
+>> Converstastional AI - be able to hold a converstation with a human
+
+Datasets
+--------
