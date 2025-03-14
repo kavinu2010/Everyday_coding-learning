@@ -170,3 +170,28 @@ computer vision read api provides quick extraction of  a small amount of text in
 For large amount of text use FORM RECOGNIZER
 
 Analysing receipts with form recognizer
+>> Exploring FORm recognizer >> OCR vs Face recognizer >> Azure services
+train ur own custom model to extract data
+save 4hee time to type, reciepts, invoices, forms
+
+OCR api is used to read the recipt but still we need to sort out address and whar fields belongs where
+form recognizer will do all those things and match fields to the values
+
+Services >> azzure form recognizer
+azure cognitive servicces
+
+
+Natural language processing:: Robot should speak now
+> An introduction to NLP
+> Leanrning to read with text analysis
+> learning to talk with azure speech
+> Hola tranlating text and speech
+> Hey corta, start the coffee achine, lnaguage understadding on azure
+
+
+
+
+
+Azure bot services >> exploring azure bot service >> uses >> exploring power virtual agents >> demo 
+
+How towe can deliver our knowledge base to our end user
