@@ -188,9 +188,33 @@ Natural language processing:: Robot should speak now
 > Hola tranlating text and speech
 > Hey corta, start the coffee achine, lnaguage understadding on azure
 
+NLP>> area of AI that can understand written and spoken language
+:: digital assistant like siri, cortana, alexa
+(understand spoken language and speak back to us)
+
+uses >> Speech recognization, speech synthesis, 
+speech or text translaion 
 
 
+::capabilities::
+1. Text analysis >> Analyze and interpre text in documents, emails and more we can extract >> sentiment determination(+ve or -ve messages)
+>> extract key phrases 
+>> detect entinities(dates, places / ppl)
+2. Translation >> NLP can translate spoken or written text between langauges
+like automated tranlation app >> eng to spanish
+google translate
+3. Language understanding:: itsnot always make them to talk, they also have to be able to understand and interpret us.
 
+
+azure services (4 main services)
+Text analystics, speech, translator, language understanding
+>> Evaluate documents and ssentences to gain and idea of  the content of the text 
+for any kind of examine we need to use text analysis
+capabilities:: comments in a diffeent language(is it english, german, mixed english dominent or else it gives NAN)
+Sentiment analysis(positie negative sentences 0 or 1)
+
+
+Learning to read with Text analysis::intro, capability and azure services
 
 Azure bot services >> exploring azure bot service >> uses >> exploring power virtual agents >> demo 
 
