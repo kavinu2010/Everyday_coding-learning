@@ -49,5 +49,20 @@ what is ground truth?
 A properly labeled dataset that you used as the objective standard to train and access a given model is often called
 ground truth [ THe accuracy of ur trained models depends upon the accuracy of ur ground truth]
 
-Supervised and Unsupervised reinforcement
------------------------------------------
+Supervised and Unsupervised  and Reinforcement
+--------------------------------------------
+
+SL - data that has been labeld for training
+task-driven - make a prediciton
+when the labels are known and you want a precise outcome. when you need a specific valued return
+ex: classification , regression
+UL - data has not been labeld , the ML model needs to do irs own labeling
+data-driven - recognise a structure pr pattern
+whne the labels are not known and the outcoem doesnt need to be precise
+when ur'e make a sense of data
+ex: clustering, dimentionality reduction, association
+RL - There is no data, there is an environment and an  ML model generated data many attempts to reach the goal
+decison driven - game AI,learning tasks,video game, robot navigation
+
+
+
