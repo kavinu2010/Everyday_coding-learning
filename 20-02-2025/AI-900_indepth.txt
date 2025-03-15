@@ -32,7 +32,7 @@ handwritten into ------> digital text[commonly used when learning how to build c
 handwriting tot the digital txt]
 COCO(common object in context)dataset :- A dataset contain many common images using a JSON files(coco format)
 that idemtify object or  segment with in an iameg 
-features----->object segmenttation, ecoggnition in context, superpixel stuff segmentation
+features----->object segmenttation, recoggnition in context, superpixel stuff segmentation
 329k images(>200k labeled), 0.5 million object instances, 79 object categories, 90 stuff categories, 4 cation per images
 249,000people with keypoints
 
@@ -86,4 +86,22 @@ a function that compared to the ground truth  to the predicition to determine th
 activation function ?
 an algorithm that applied to a hidden layer node that affects connected output eg ReLu
 dense, sparse
+
+GPU:: Graphical processing unit
+--------------------------------
+specially designed to quickly render high-resolution images and video concurrently
+it can perform parallel operations or multiple sets of data, tey used of non graphical 
+tasks such as ML and scientific computation
+CPU - has average 4 to 5 processor cores
+GPU - can provide as many as 40000 cores
+best suited for repetitive and highly - parallel computing tasks
+>> Rendering grpahics
+>> crypto currency mining
+>> Deep learning and ML
+
+
+Compute unified device architecture (CUDA)
+-----------------------------------
+What is NVIDA?
+Is a company that manufactures GPUs for gaming and professional markets
 
