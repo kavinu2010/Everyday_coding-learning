@@ -266,3 +266,20 @@ Anomaly detector
 
 Detect anomalies in data to quickly identify and troubleshoot issues.
 
+Computer Vision AI
+-----------------
+Computer Vision is when we use Machine Learning Neural Networks to gain high-level understanding from digital images or video.
+
+Computer Vision Deep Learning Algorithms:
+	•	Convolutional neural network (CNN) — image and video recognition
+	•	Inspired after how human eyes actually process information and send it back to the brain to be processed.
+	•	Recurrent neural network (RNN) — handwriting recognition or speech recognition.
+
+Types of Computer Vision
+	•	Image Classification — look at an image or video and classify (place it in a category).
+	•	Object Detection — identify objects within an image or video and apply labels and location boundaries.
+	•	Semantic Segmentation — identify segments or objects by drawing a pixel mask (great for objects in movement).
+	•	Image Analysis — analyze an image or video to apply descriptive and context labels.
+	•	e.g., An employee sitting at a Desk in Tokyo.
+	•	Optical Character Recognition (OCR) — Find text in images or videos and extract them into digital text for editing.
+	•	Facial Detection — detect faces in a photo or video, draw a location boundary, label their expression.
