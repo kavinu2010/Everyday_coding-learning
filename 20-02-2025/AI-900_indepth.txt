@@ -296,3 +296,42 @@ Azure’s Computer Vision Service Offering:
 	•	Custom Vision – Custom image classification and object detection models using your own images.
 	•	Face – Detect and identify people and emotions in images.
 	•	Form Recogniser – Translate scanned documents into key/value or tabular editable data.
+
+Natural language processing
+---------------------------
+Natural Language Processing is Machine Learning that can understand the context of a corpus (a body of related text).
+
+NLP enables you to:
+	•	Analyze and interpret text within documents, email messages.
+	•	Interpret or contextualize spoken tokens, e.g., sentiment analysis.
+	•	Synthesize speech, e.g., a voice assistant talking to you.
+	•	Automatically translate spoken or written phrases and sentences between languages.
+	•	Interpret spoken or written commands and determine appropriate actions.
+
+⸻
+
+Cortana
+
+Cortana is a virtual assistant developed by Microsoft, which uses the Bing search engine to perform tasks such as setting reminders and answering questions for the user.
+
+![Cortana Logo]
+“Hi, I’m Cortana.”
+
+
+Azure’s NLP Service Offering:
+
+Text Analytics
+	•	Sentiment analysis to find out what customers think.
+	•	Find topic-relevant phrases using key phrase extraction.
+	•	Identify the language of the text with language detection.
+	•	Detect and categorize entities in your text with named entity recognition.
+
+Translator
+	•	Real-time text translation.
+	•	Multi-language support.
+
+Speech
+	•	Transcribe audible speech into readable, searchable text.
+
+Language Understanding (LUIS)
+	•	Natural language processing service that enables you to understand human language in your own application, website, chatbot, IoT device, and more.
