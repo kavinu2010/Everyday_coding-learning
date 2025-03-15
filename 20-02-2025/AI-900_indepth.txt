@@ -203,3 +203,41 @@ Different Regression algorithms use the error to predict future variables:
 	•	Mean absolute error (MAE)
 
 
+classification
+---------------
+Classification is a process of finding a function to divide a labeled dataset into classes/categories.
+
+Outcome: Predict category to apply to the inputted data
+Will it rain next Saturday?
+e.g. Sunny, Rainy
+
+Data over here will be Sunny
+A classification line divides the dataset
+Data over here will be Rainy
+Classification Algorithms
+	•	Logistic Regression
+	•	Decision Tree/Random Forest
+	•	Neural Networks
+	•	Naive Bayes
+	•	K-Nearest Neighbors
+	•	Support Vector Machines
+
+
+Clustering
+-----------
+Clustering is a process grouping unlabeled data based on similarities and differences.
+
+Outcome:
+
+Group data based on their similarities or differences.
+	•	Recommend purchasing a Windows Computer
+	•	Recommend purchasing a Mac Computer
+
+Clustering Algorithms
+	•	K-means
+	•	K-medoids
+	•	Density Based
+	•	Hierarchical
+
+
+
