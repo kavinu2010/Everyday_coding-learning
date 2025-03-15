@@ -102,6 +102,22 @@ best suited for repetitive and highly - parallel computing tasks
 
 Compute unified device architecture (CUDA)
 -----------------------------------
-What is NVIDA?
+What is NVIDIA?
 Is a company that manufactures GPUs for gaming and professional markets
+CUDA --> is a parallel computing platform and API by NVIDIA that developers to use
+CUDA-enabled GPUs for general purpose computing on (GPGPU)
+
+All major DL frameworks are integrated with NVIDIA deep learning SDK
+
+The NVIDIA deep learning SDK is collection of NVIDIA libraries for DL
+one of those libraries is the CUDA deep neural networking library (cuDNN)
+cuDNN provides highly tuned implementations for standard routine such as:
+>> Forward and backwqard convolution
+>> pooling
+>> Noemalization
+>> Activating 
+
+
+
+
 
