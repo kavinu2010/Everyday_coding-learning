@@ -239,5 +239,30 @@ Clustering Algorithms
 	•	Density Based
 	•	Hierarchical
 
+Anomaly detection AI?
+---------------------
+What is an anomaly?
 
+An abnormal thing; a marked deviation from the norm or a standard.
+
+What is anomaly detection?
+
+Anomaly Detection is the process of finding outliers within a dataset called an anomaly.
+Detecting when a piece of data or access patterns appear suspicious or malicious.
+
+Use cases for anomaly detection:
+	•	Data cleaning
+	•	Intrusion detection
+	•	Fraud detection
+	•	Systems health monitoring
+	•	Event detection in sensor networks
+	•	Ecosystem disturbances
+	•	Detection of critical and cascading flaws
+
+Anomaly detection by hand is a very tedious process.
+Using machine learning for anomaly detection is more efficient and accurate.
+
+Anomaly detector
+
+Detect anomalies in data to quickly identify and troubleshoot issues.
 
