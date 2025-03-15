@@ -335,3 +335,27 @@ Speech
 
 Language Understanding (LUIS)
 	•	Natural language processing service that enables you to understand human language in your own application, website, chatbot, IoT device, and more.
+
+
+Conversational AI
+-----------------
+Conversational AI is technology that can participate in conversations with humans.
+
+Examples of Conversational AI:
+	•	Chatbots
+	•	Voice Assistants
+	•	Interactive Voice Recognition Systems (IVRS)
+
+Use Cases:
+	•	Online Customer Support — replaces human agents for replying about customer FAQs, shipping.
+	•	Accessibility — voice-operated UI for those who are visually impaired.
+	•	HR Processes — employee training, onboarding, updating employee information.
+	•	Health Care — accessible and affordable healthcare, e.g., claim processes.
+	•	Internet of Things (IoT) — Amazon Alexa, Apple Siri, and Google Home.
+	•	Computer Software — autocomplete search on phone or desktop.
+
+Additional Services:
+	•	QnA Maker — Create a conversational question-and-answer bot from your existing content (Knowledge base).
+	•	Azure Bot Service — Intelligent, serverless bot service that scales on demand. Used for creating, publishing, and managing bots.
+
+⸻
