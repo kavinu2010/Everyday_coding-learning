@@ -395,3 +395,15 @@ Azure ML can tell you how each feature can influence a model’s prediction for 
 
 Fairlearn is an open-source Python project to help data scientists improve fairness in their AI systems.
 
+Reliability and safety
+----------------------
+AI systems should perform reliably and safely
+
+AI software must be rigorously tested to ensure they work as expected before release to the end user.
+
+If there are scenarios where AI is making mistakes, it is important to release a report quantified risks and harms to end-users so they are informed of the shortcomings of an AI solution.
+
+AI where concern for reliability and safety for humans is critically important:
+	•	Autonomous Vehicles
+	•	AI health diagnosis, AI suggesting prescriptions
+	•	Autonomous Weapon Systems
