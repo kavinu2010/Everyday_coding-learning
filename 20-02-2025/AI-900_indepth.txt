@@ -370,3 +370,27 @@ Microsoft puts into practice Responsible AI via its six Microsoft AI principles:
 	4.	Inclusiveness — AI systems should empower everyone and engage people.
 	5.	Transparency — AI systems should be understandable.
 	6.	Accountability — People should be accountable for AI systems.
+
+Fairness
+--------
+AI systems should treat all people fairly
+
+AI systems can reinforce existing societal stereotypes.
+Bias can be introduced during the development of a pipeline.
+
+AI systems that are used to allocate or withhold:
+	•	Opportunities
+	•	Resources
+	•	Information
+
+In domains:
+	•	Criminal Justice
+	•	Employment and Hiring
+	•	Finance and Credit
+
+Example:
+An ML model designed to select final applicants for a hiring pipeline without incorporating any bias based on gender, ethnicity, or other factors may result in an unfair advantage.
+
+Azure ML can tell you how each feature can influence a model’s prediction for bias
+
+Fairlearn is an open-source Python project to help data scientists improve fairness in their AI systems.
