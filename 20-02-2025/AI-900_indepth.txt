@@ -133,6 +133,18 @@ HT - An ML model can have ifferent parameters, we can use ML to try out many
 Se - we need to make are ML model accessible, so we serve by hosting in a 
      virtual machine or container
 interface is the act of requesting to make prediction
+
+
+Forecasting VS prediciotns
+--------------------------
+Forecasting---> makes a future prediction with relevant data
+>> Analysis of trends
+>> Its not 'guessing'
+Prediction---> Makes a future predicition without relevant data
+>> uses statics to predicit future outcomes 
+>> Its more of 'guessing'
+>> Uses decision theory
+
      
 
 
