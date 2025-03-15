@@ -283,3 +283,16 @@ Types of Computer Vision
 	•	e.g., An employee sitting at a Desk in Tokyo.
 	•	Optical Character Recognition (OCR) — Find text in images or videos and extract them into digital text for editing.
 	•	Facial Detection — detect faces in a photo or video, draw a location boundary, label their expression.
+
+Seeing AI
+
+Seeing AI is an AI app developed by Microsoft for iOS.
+Seeing AI uses the device camera to identify people and objects, and then the app audibly describes those objects for people with visual impairment.
+
+⸻
+
+Azure’s Computer Vision Service Offering:
+	•	Computer Vision – Analyze images and video, and extract descriptions, tags, objects, and text.
+	•	Custom Vision – Custom image classification and object detection models using your own images.
+	•	Face – Detect and identify people and emotions in images.
+	•	Form Recogniser – Translate scanned documents into key/value or tabular editable data.
