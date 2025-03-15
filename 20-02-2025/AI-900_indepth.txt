@@ -146,6 +146,11 @@ Prediction---> Makes a future predicition without relevant data
 >> Uses decision theory
 
      
+Evalation metrics(Performance / Evaluating metrices)
+----------------------------------------------------
+Are use to evalaute different machine learning algorithms
+for different types of problem differnt metrics matter(this is not exhaustive list)
+
 
 
 
