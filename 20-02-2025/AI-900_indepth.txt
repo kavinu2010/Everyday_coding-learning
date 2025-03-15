@@ -178,7 +178,11 @@ Jupyter Notebooks were overhauled and better integrated into an IDE called Jupyt
 
 You generally want to open Notebooks in Labs
 The legacy web-based interface is known as
-Jupyter classic notebook
+Jupyter classic notebook 
+jupyter lab ---> is a next generation web-based user interface
+all thefamiliar features of the classic jupyter notbook in a flexible and poweful user interface
+notebook >> terminal, text editor, file browser, rich outputs
+jupyterlab will eventually replace the classical jupyter notebook
 
 
 
