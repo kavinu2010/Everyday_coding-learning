@@ -112,11 +112,28 @@ All major DL frameworks are integrated with NVIDIA deep learning SDK
 The NVIDIA deep learning SDK is collection of NVIDIA libraries for DL
 one of those libraries is the CUDA deep neural networking library (cuDNN)
 cuDNN provides highly tuned implementations for standard routine such as:
->> Forward and backwqard convolution
+>> Forward and backwqard convolution(CV)
 >> pooling
 >> Noemalization
->> Activating 
+>> Activation layers
 
+Simple ML pipeline
+------------------
+Data labeling--->Feature engineering--->Training--->Hyperparameter tunning
+--->serving--->::interfaces::____>Real-time endpoint____>Batch processing
+DL - for supervised learning you need to label your data so the ML model
+    can learn by example during training
+FE - ML models only work with numerical data. so u need to translate
+     it into a format that it can understand, extract out the important data that
+     the ML needs to focus on 
+Tr - ur model need to learn how to become smarter. it will perform multiple
+     iterations getting smarter with each iteration
+HT - An ML model can have ifferent parameters, we can use ML to try out many
+     different parameters to optimize the outcome
+Se - we need to make are ML model accessible, so we serve by hosting in a 
+     virtual machine or container
+interface is the act of requesting to make prediction
+     
 
 
 
