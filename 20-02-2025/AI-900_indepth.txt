@@ -407,3 +407,53 @@ AI where concern for reliability and safety for humans is critically important:
 	•	Autonomous Vehicles
 	•	AI health diagnosis, AI suggesting prescriptions
 	•	Autonomous Weapon Systems
+
+
+Privacy and security
+---------------------
+AI systems should be secure and respect privacy
+
+AI can require vast amounts of data to train Deep Learning ML models.
+The nature of the ML model may require Personally Identifiable Information (PII).
+
+It is important that we ensure the protection of user data so that it is not leaked or disclosed.
+
+In some cases, ML models can be run locally on a user’s device so their PII remains on their device, avoiding that vulnerability.
+
+AI Security Principles to detect malicious actors:
+	•	Data Origin and Lineage
+	•	Data Use Internal vs External
+	•	Data Corruption Considerations
+	•	Anomaly Detection
+
+
+Inclusivness
+-------------
+AI systems should empower everyone and engage people
+
+If we can design AI solutions for the minority of users,
+then we can design AI solutions for the majority of users.
+
+Minority Groups:
+	•	Physical ability
+	•	Gender
+	•	Sexual orientation
+	•	Ethnicity
+	•	Other factors
+
+transperancy
+------------
+AI systems should be understandable
+
+Interpretability / Intelligibility is when end-users can understand the behavior of the UI.
+
+Transparency of AI systems can result in:
+	•	Mitigating unfairness
+	•	Helping developers debug their AI systems
+	•	Gaining more trust from our users
+
+Those who build AI systems should be:
+	•	Open about why they are using AI
+	•	Open about the limitations of their AI systems
+
+Adopting an open-source AI framework can provide transparency (at least from a technical perspective) on the internal workings of an AI system.
