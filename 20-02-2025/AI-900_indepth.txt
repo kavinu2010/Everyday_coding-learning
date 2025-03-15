@@ -358,4 +358,15 @@ Additional Services:
 	•	QnA Maker — Create a conversational question-and-answer bot from your existing content (Knowledge base).
 	•	Azure Bot Service — Intelligent, serverless bot service that scales on demand. Used for creating, publishing, and managing bots.
 
-⸻
+
+
+Responsible AI (principle of AI)
+------------------------------
+Responsible AI focuses on ethical, transparent, and accountable use of AI technologies.
+Microsoft puts into practice Responsible AI via its six Microsoft AI principles:
+	1.	Fairness — AI systems should treat all people fairly.
+	2.	Reliability and Safety — AI systems should perform reliably and safely.
+	3.	Privacy and Security — AI systems should be secure and respect privacy.
+	4.	Inclusiveness — AI systems should empower everyone and engage people.
+	5.	Transparency — AI systems should be understandable.
+	6.	Accountability — People should be accountable for AI systems.
