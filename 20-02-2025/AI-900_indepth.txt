@@ -185,6 +185,21 @@ notebook >> terminal, text editor, file browser, rich outputs
 jupyterlab will eventually replace the classical jupyter notebook
 
 
+Regression
+------------
+Regression is a process of finding a function to correlate a labeled dataset into continuous variable/number.
 
+Outcome: Predict this variable in the future
+What will the temperature be next week?
+e.g. 20°C
+
+Vectors (dots) are plotted on a graph in multiple dimensions e.g. (X, Y)
+A regression line is drawn through the dataset.
+
+The distance of the vector from the regression line is called an Error.
+Different Regression algorithms use the error to predict future variables:
+	•	Mean squared error (MSE)
+	•	Root mean squared error (RMSE)
+	•	Mean absolute error (MAE)
 
 
