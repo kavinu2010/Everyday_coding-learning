@@ -273,3 +273,9 @@ Azure bot services >> exploring azure bot service >> uses >> exploring power vir
 How towe can deliver our knowledge base to our end user
 POWER VIRTUAL AGENTS
 it saves our resonse in variable called PVA
+
+
+
+Generative AI workloads on azure
+--------------------------------
+quickly faSTLY

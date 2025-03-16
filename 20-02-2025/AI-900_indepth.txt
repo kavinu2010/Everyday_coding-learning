@@ -510,3 +510,59 @@ Vision
 	•	Computer Vision — Analyze content in images and video.
 	•	Custom Vision — Customize image recognition to fit your business needs.
   . face - detect and identify people emotions in imagese
+
+Cognitive API key and endpoints
+-------------------------------
+Cognitive Services is an umbrella AI service that enables customers to access multiple AI services with an API key and an API Endpoint.
+
+
+Knowledge mining
+----------------
+Knowledge mining is a discipline in AI that uses a combination of intelligent services to quickly learn from vast amounts of information.
+
+It allows organizations to deeply understand and easily explore information, uncover hidden insights, and find relationships and patterns at scale.
+
+Ingest → Enrich → Explore
+
+Ingest
+
+Structured:
+	•	Databases
+	•	CSV
+
+Unstructured:
+	•	PDF, Video, Image, Audio
+
+Ingest content from a range of sources, using connectors to first- and third-party data stores.
+
+Enrich
+
+Cognitive Services:
+	•	Vision
+	•	Language
+	•	Speech
+	•	Decision
+	•	Search
+
+Enrich the content with AI capabilities that let you extract information, find patterns, and deepen understanding.
+
+Explore
+
+Enrich, Structured Data:
+	•	Customer Relationship Management (CRM)
+	•	RAP Systems
+	•	Power BI
+
+Explore the newly indexed data via search, bots, existing business applications, and data visualizations.
+
+Content research
+
+When organizations task employees to review and research technical data, it can be tedious to read page after page of dense text. Knowledge mining helps employees quickly review these dense materials.
+
+Process Flow: Ingest → Enrich → Explore
+
+Usecases
+
+Auditing, risk, and compliance management
+Developers could use knowledge mining to help attorneys quickly identify entities of importance from discovery documents and flag important ideas across documents.
+business process management
