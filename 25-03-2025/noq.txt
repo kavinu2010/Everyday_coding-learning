@@ -2,3 +2,115 @@ Joined as a intersnhip candidate in NOQ
 
 DOR- Defination of ready
 DOD- Defination of done
+
+Absolutely! Here’s a concise summary of the noQ Playbook 2.1:
+
+⸻
+
+🧭 What is noQ?
+
+noQ is a non-profit, volunteer-driven tech organization focused on creating digital solutions for homelessness and vulnerable groups, starting in Stockholm. Their bold mission:
+🎯 Zero homeless people in Stockholm by Christmas 2025
+🎯 Zero vulnerable people globally in the long term
+
+⸻
+
+📘 Purpose of the Playbook
+
+The Playbook is like an encyclopedia for how noQ works — from values, tools, processes, roles, and communication to onboarding and offboarding.
+
+⸻
+
+🧠 Core Beliefs & Mindset (“noQ Agile”)
+	1.	People: Trust and self-organization thrive in the right environment.
+	2.	Complexity: Problems are complex and need adaptive thinking.
+	3.	Proactivity: Improve constantly.
+	4.	+1 Doubt: Question everything — it’s encouraged!
+
+⸻
+
+❤️ Values & Culture
+	•	Driven by compassion and self-compassion
+	•	Everyone works pro bono
+	•	Emphasis on psychological safety, inclusion, trust, and openness
+	•	Volunteers commit to at least 5 hours/week and stay for 6 months
+	•	Offboarding and pausing processes are clear and respectful
+
+⸻
+
+🧑‍🤝‍🧑 The Users of the System
+	1.	Caseworkers – Municipality social workers
+	2.	Guests – Homeless individuals (divided into 4 types based on situation)
+	3.	Volunteers – Help without pay (Scheduled, Substitute, noQ teams)
+	4.	Help Organizations – Like Red Cross, Salvation Army, Stadsmissionen
+
+⸻
+
+👩‍💻 How We Work
+	•	Structure: Flat and non-hierarchical
+	•	Teams (Pluto, Mars, Saturnus, etc.) focus on different user groups or systems
+	•	Communities of Practice (CoP): Learning circles on topics like design, development, AI
+	•	Working methods include:
+	•	Driver + Wingmate (peer review model)
+	•	Internal demos
+	•	Retros, planning, and reviews
+
+⸻
+
+⚒️ Tools
+
+Mandatory: Slack, GitHub, Google Workspace
+Others include: Figma, Canva, AWS, OBS, GIMP, Miro, etc.
+Each tool has Toolmasters for support.
+
+⸻
+
+📢 Communication
+	•	Internal: Slack (not email)
+	•	External: Email
+	•	Primary language: Swedish, but internal docs (like this Playbook) are in English
+
+⸻
+
+🛠️ Processes & Project Planning
+	•	Uses GitHub projects and tickets (Stories, Tasks, Bugs, Epics, etc.)
+	•	Uses Agile methods: Scrum, Lean, Holacracy, XP
+	•	Has clear Definitions of Ready (DoR) and Done (DoD)
+	•	Guestimation instead of strict time estimates
+	•	Internal demos before merging code
+
+⸻
+
+📈 Decision-Making
+	•	Everyone is encouraged to make decisions close to the work
+	•	Trust and autonomy are core — make brave decisions, learn from mistakes
+	•	The board handles big strategic calls
+
+⸻
+
+👋 Joining, Pausing, and Leaving
+	•	Onboarding includes a buddy, checklist, and quiz
+	•	Pausing is possible for up to 6 months
+	•	Offboarding is structured, respectful, and leaves the door open to return
+
+⸻
+
+🎓 Academy (On Hold)
+
+noQ offers an Academy program (currently paused) that trains members in:
+	•	Agile & Psychological Safety
+	•	Teamwork
+	•	GitHub & Planning
+	•	Facilitation & Communication
+	•	Tool use
+
+⸻
+
+🎯 Final Thoughts
+	•	This Playbook is a living document, regularly updated
+	•	Everyone is encouraged to read it once and refer to it as needed
+	•	Feedback is welcomed directly in the doc via comments
+
+⸻
+
+If you want a shorter cheat sheet, visual summary, or summary in Swedish, just say the word! 😊
