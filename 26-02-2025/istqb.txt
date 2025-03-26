@@ -1,0 +1,10 @@
+ISTQB [International software testing qualification board]
+----------------------------------------------------------
+
+The syllabus
+>> Fundamental of testing 
+>> Testing throughout the software development life cycle
+>> Static testing
+>> Test analysis and design
+>> Managing the test activities
+>> Test tool
