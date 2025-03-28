@@ -1,7 +1,7 @@
 ISTQB [International software testing qualification board]
 ----------------------------------------------------------
 
-The syllabus
+The syllabus >> important to remember
 >> Fundamental of testing 
 >> Testing throughout the software development life cycle
 >> Static testing
@@ -33,8 +33,9 @@ The typical test objectives are:
 	•	Building confidence in the quality of the test object
 	•	Validating whether the test object is complete and works as expected by the stakeholders
 
-⸻
+⸻------------------------------------
 Testing and Debugging
+----------------------------------------
 	•	Testing and debugging are separate activities.
 	•	Testing can trigger failures that are caused by defects in the software (dynamic testing) or can directly find defects in the test object (static testing).
 	•	When dynamic testing triggers a failure, debugging is concerned with finding causes of this failure (defects), analyzing these causes, and eliminating them.
