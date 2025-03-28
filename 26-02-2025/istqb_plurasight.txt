@@ -1,0 +1,6 @@
+ISTQB
+-------
+
+The objectives of testing /// The seven testing principles /// Testing activities and process Fundamentals
+-------------------------    -----------------------------       ----------------------------------
+
