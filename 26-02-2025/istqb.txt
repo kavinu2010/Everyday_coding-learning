@@ -9,9 +9,22 @@ The syllabus >> important to remember
 >> Managing the test activities
 >> Test tool
 
-------------------------------------------------------------
-Fundamentals of Testing
------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+Fundamentals of Testing ::::>>>> Why testing is necessary >>  Testing Principles >>  Testing activities >> Testware and Testroles 
+>> Essential skills and good pactices
+-----------------------------------------------------------------------------------------------------------------------------
+
+Core takeaways:>>
+	1.	List of common Test Objectives
+	2.	Understand the difference between testing and debugging
+	3.	Understand the difference between Testing, QA, QC, and QM
+	4.	Mistake vs. defect vs. failure
+	5.	Explain the 7 testing principles
+	6.	Recall Test Activities and their related Work Products
+	7.	Describe 2 common Test Roles
+	8.	Understand the varying degrees of independence in testing
+
+------------------------------------------------------------------------------------------------------------------------------
 
 What is Testing?
 	•	Software testing is a set of activities to discover defects and evaluate the quality of software artifacts. These artifacts, when being tested, are known as test objects.
@@ -20,18 +33,44 @@ What is Testing?
 	•	Testing may be dynamic or static.
 	•	Testing is not only a technical activity. It also needs to be properly planned, managed, estimated, monitored, and controlled.
 
-Test Objectives---- Objectives of testing
+🧪 STLC (Software Testing Life Cycle) – Key Phases:
+	1.	Test Planning –
+“What, how, by when?”
+→ Define scope, strategy, resources, schedule.
+	2.	Analysis –
+→ Understand requirements, identify test conditions.
+	3.	Test Design –
+→ Create test cases, test data, and traceability.
+	4.	Test Execution & Result Checking –
+→ Run test cases, log actual vs. expected results.
+	5.	Bug Reporting –
+→ Log defects when there’s a mismatch.
+	6.	Test Reporting –
+→ Share status, metrics, test summary, defect trends, etc.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Test Objectives ---- Objectives of testing
 
 The typical test objectives are:
-	•	Evaluating work products such as requirements, user stories, designs, and code
-	•	Triggering failures and finding defects
-	•	Ensuring required coverage of a test object
-	•	Reducing the level of risk of inadequate software quality
-	•	Verifying whether specified requirements have been fulfilled
-	•	Verifying that a test object complies with contractual, legal, and regulatory requirements
-	•	Providing information to stakeholders to allow them to make informed decisions
-	•	Building confidence in the quality of the test object
-	•	Validating whether the test object is complete and works as expected by the stakeholders
+
+	•	Evaluating work products >>>>  such as requirements, user stories, designs, and code  ::Goal:: We prevent !
+
+	•	Causing/trigger failures and finding defects  ::Goal:: Trigger bugs by running tests.
+
+	•	Ensuring required coverage of a test object ::Goal:: Cover all important parts/functions through tests.
+
+	•	Reducing the level of risk of inadequate software quality  ::Goal:: Catch defects early to avoid future failures and losses.
+
+	•	Verifying whether specified requirements have been fulfilled  ::Goal:: Confirm the software does what was asked.
+
+	•	Verifying that a test object complies with contractual, legal, and regulatory requirements ::Goal:: Ensure the software follows rules or laws.
+
+	•	Providing information to stakeholders to allow them to make informed decisions ::Goal:: Help product managers or clients make informed choices.
+
+	•	Building confidence in the quality of the test object ::Goal:: Make stakeholders feel safe about the product.
+
+	•	Validating whether the test object is complete and works as expected by the stakeholders ::Goal:: Make sure the software meets real-world expectations.
 
 ⸻------------------------------------
 Testing and Debugging
